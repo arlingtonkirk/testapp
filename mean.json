@@ -1,4 +1,6 @@
 {
     "dependencies": {},
-    "anonymizedData": true
+    "anonymizedData": true,
+    "name": "testApp",
+    "id": "56defea176a894f04f75c2cc"
 }
